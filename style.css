@@ -401,7 +401,7 @@ noscript{
 }
 .logo:hover{
     transform: translateY(100px);
-    transition-duration: 1s;
+    transition-duration: .8s;
 }
 
 
