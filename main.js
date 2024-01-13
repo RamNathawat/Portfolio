@@ -122,7 +122,7 @@ window.onscroll = function(){
   scrollFunction()
 };
 
-function scrollFunction(){
+function svsollFunction(){
   if(document.body.scrollTop > 400 || document.documentElement.scrollTop > 400)
   {
     mybutton.style.display = "block";
